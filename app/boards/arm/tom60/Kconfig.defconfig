@@ -1,6 +1,3 @@
-# Copyright (c) 2021 Nick Winans
-# SPDX-License-Identifier: MIT
-
 if BOARD_TOM60
 
 config ZMK_KEYBOARD_NAME
